@@ -1,0 +1,9 @@
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\bin\Debug\netcoreapp2.1\LeapYearLib.deps.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\bin\Debug\netcoreapp2.1\LeapYearLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\bin\Debug\netcoreapp2.1\LeapYearLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\obj\Debug\netcoreapp2.1\LeapYearLib.csproj.CoreCompileInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\obj\Debug\netcoreapp2.1\LeapYearLib.AssemblyInfoInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\obj\Debug\netcoreapp2.1\LeapYearLib.AssemblyInfo.cs
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\obj\Debug\netcoreapp2.1\LeapYearLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\obj\Debug\netcoreapp2.1\LeapYearLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\LeapYearLib\obj\Debug\netcoreapp2.1\LeapYearLib.csprojAssemblyReference.cache

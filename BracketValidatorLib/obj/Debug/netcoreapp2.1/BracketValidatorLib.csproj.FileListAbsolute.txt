@@ -1,0 +1,8 @@
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\bin\Debug\netcoreapp2.1\BracketValidatorLib.deps.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\bin\Debug\netcoreapp2.1\BracketValidatorLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\bin\Debug\netcoreapp2.1\BracketValidatorLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\obj\Debug\netcoreapp2.1\BracketValidatorLib.csproj.CoreCompileInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\obj\Debug\netcoreapp2.1\BracketValidatorLib.AssemblyInfoInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\obj\Debug\netcoreapp2.1\BracketValidatorLib.AssemblyInfo.cs
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\obj\Debug\netcoreapp2.1\BracketValidatorLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BracketValidatorLib\obj\Debug\netcoreapp2.1\BracketValidatorLib.pdb

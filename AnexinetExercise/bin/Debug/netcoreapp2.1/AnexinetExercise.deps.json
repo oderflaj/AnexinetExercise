@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AnexinetExercise/1.0.0": {
+        "dependencies": {
+          "BoxAreaLib": "1.0.0",
+          "BracketValidatorLib": "1.0.0",
+          "CharactersRepeatedLib": "1.0.0",
+          "CompressionLib": "1.0.0",
+          "LeapYearLib": "1.0.0"
+        },
+        "runtime": {
+          "AnexinetExercise.dll": {}
+        }
+      },
+      "BoxAreaLib/1.0.0": {
+        "runtime": {
+          "BoxAreaLib.dll": {}
+        }
+      },
+      "BracketValidatorLib/1.0.0": {
+        "runtime": {
+          "BracketValidatorLib.dll": {}
+        }
+      },
+      "CharactersRepeatedLib/1.0.0": {
+        "runtime": {
+          "CharactersRepeatedLib.dll": {}
+        }
+      },
+      "CompressionLib/1.0.0": {
+        "runtime": {
+          "CompressionLib.dll": {}
+        }
+      },
+      "LeapYearLib/1.0.0": {
+        "runtime": {
+          "LeapYearLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnexinetExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoxAreaLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BracketValidatorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CharactersRepeatedLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompressionLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeapYearLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

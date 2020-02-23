@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxAreaLib", "BoxAreaLib\BoxAreaLib.csproj", "{A917FC40-7B71-47FC-ACF7-ACED8BDBD578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnexinetExercise", "AnexinetExercise\AnexinetExercise.csproj", "{8F28002E-E194-420D-8F95-43465D43038C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearLib", "LeapYearLib\LeapYearLib.csproj", "{5E9AE4AA-0790-44DB-B43A-DB6E7383D01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketValidatorLib", "BracketValidatorLib\BracketValidatorLib.csproj", "{C4699324-28B1-46FE-ADA7-3C19006CB93F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharactersRepeatedLib", "CharactersRepeatedLib\CharactersRepeatedLib.csproj", "{AFE68975-5808-438F-BFF4-FDD9FF027BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressionLib", "CompressionLib\CompressionLib.csproj", "{1F56C8A1-6CF9-431E-AEAD-E8F7D4B63937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A917FC40-7B71-47FC-ACF7-ACED8BDBD578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A917FC40-7B71-47FC-ACF7-ACED8BDBD578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A917FC40-7B71-47FC-ACF7-ACED8BDBD578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A917FC40-7B71-47FC-ACF7-ACED8BDBD578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F28002E-E194-420D-8F95-43465D43038C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F28002E-E194-420D-8F95-43465D43038C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F28002E-E194-420D-8F95-43465D43038C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F28002E-E194-420D-8F95-43465D43038C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9AE4AA-0790-44DB-B43A-DB6E7383D01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9AE4AA-0790-44DB-B43A-DB6E7383D01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9AE4AA-0790-44DB-B43A-DB6E7383D01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9AE4AA-0790-44DB-B43A-DB6E7383D01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4699324-28B1-46FE-ADA7-3C19006CB93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4699324-28B1-46FE-ADA7-3C19006CB93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4699324-28B1-46FE-ADA7-3C19006CB93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4699324-28B1-46FE-ADA7-3C19006CB93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE68975-5808-438F-BFF4-FDD9FF027BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE68975-5808-438F-BFF4-FDD9FF027BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE68975-5808-438F-BFF4-FDD9FF027BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE68975-5808-438F-BFF4-FDD9FF027BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F56C8A1-6CF9-431E-AEAD-E8F7D4B63937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F56C8A1-6CF9-431E-AEAD-E8F7D4B63937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F56C8A1-6CF9-431E-AEAD-E8F7D4B63937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F56C8A1-6CF9-431E-AEAD-E8F7D4B63937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C3DCB5E-B5B6-418A-9E4E-D2E6A3CE3F91}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\bin\Debug\netcoreapp2.1\CompressionLib.deps.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\bin\Debug\netcoreapp2.1\CompressionLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\bin\Debug\netcoreapp2.1\CompressionLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\obj\Debug\netcoreapp2.1\CompressionLib.csproj.CoreCompileInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\obj\Debug\netcoreapp2.1\CompressionLib.AssemblyInfoInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\obj\Debug\netcoreapp2.1\CompressionLib.AssemblyInfo.cs
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\obj\Debug\netcoreapp2.1\CompressionLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\obj\Debug\netcoreapp2.1\CompressionLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CompressionLib\obj\Debug\netcoreapp2.1\CompressionLib.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\bin\Debug\netcoreapp2.1\BoxAreaLib.deps.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\bin\Debug\netcoreapp2.1\BoxAreaLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\bin\Debug\netcoreapp2.1\BoxAreaLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\obj\Debug\netcoreapp2.1\BoxAreaLib.csproj.CoreCompileInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\obj\Debug\netcoreapp2.1\BoxAreaLib.AssemblyInfoInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\obj\Debug\netcoreapp2.1\BoxAreaLib.AssemblyInfo.cs
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\obj\Debug\netcoreapp2.1\BoxAreaLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\BoxAreaLib\obj\Debug\netcoreapp2.1\BoxAreaLib.pdb

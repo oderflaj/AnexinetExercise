@@ -1,0 +1,9 @@
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\bin\Debug\netcoreapp2.1\CharactersRepeatedLib.deps.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\bin\Debug\netcoreapp2.1\CharactersRepeatedLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\bin\Debug\netcoreapp2.1\CharactersRepeatedLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\obj\Debug\netcoreapp2.1\CharactersRepeatedLib.csproj.CoreCompileInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\obj\Debug\netcoreapp2.1\CharactersRepeatedLib.AssemblyInfoInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\obj\Debug\netcoreapp2.1\CharactersRepeatedLib.AssemblyInfo.cs
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\obj\Debug\netcoreapp2.1\CharactersRepeatedLib.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\obj\Debug\netcoreapp2.1\CharactersRepeatedLib.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\CharactersRepeatedLib\obj\Debug\netcoreapp2.1\CharactersRepeatedLib.csprojAssemblyReference.cache

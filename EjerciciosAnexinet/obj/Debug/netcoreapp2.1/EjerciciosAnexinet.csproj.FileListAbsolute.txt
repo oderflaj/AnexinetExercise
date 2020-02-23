@@ -1,0 +1,11 @@
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\bin\Debug\netcoreapp2.1\EjerciciosAnexinet.deps.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\bin\Debug\netcoreapp2.1\EjerciciosAnexinet.runtimeconfig.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\bin\Debug\netcoreapp2.1\EjerciciosAnexinet.runtimeconfig.dev.json
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\bin\Debug\netcoreapp2.1\EjerciciosAnexinet.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\bin\Debug\netcoreapp2.1\EjerciciosAnexinet.pdb
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\obj\Debug\netcoreapp2.1\EjerciciosAnexinet.csprojAssemblyReference.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\obj\Debug\netcoreapp2.1\EjerciciosAnexinet.csproj.CoreCompileInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\obj\Debug\netcoreapp2.1\EjerciciosAnexinet.AssemblyInfoInputs.cache
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\obj\Debug\netcoreapp2.1\EjerciciosAnexinet.AssemblyInfo.cs
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\obj\Debug\netcoreapp2.1\EjerciciosAnexinet.dll
+F:\Vecino\Laboratorio\EjerciciosAnexinet\EjerciciosAnexinet\obj\Debug\netcoreapp2.1\EjerciciosAnexinet.pdb
